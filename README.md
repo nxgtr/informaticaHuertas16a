@@ -1,2 +1,2 @@
-# jairHuertas16a
-Code for JAIR paper
+# informaticaHuertas16a
+Code for Informatica paper
